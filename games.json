@@ -1,0 +1,54 @@
+{
+    "games": {
+        "240": {
+            "name": "Counter-Strike Source",
+            "overlay": false,
+            "use_gamescope": true,
+            "game": ["-console", "-novid"]
+        },
+        "730": {
+            "name": "Counter-Strike 2",
+            "overlay": false,
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            },
+            "game": ["-console", "-novid"]
+        },
+        "646570": {
+            "name": "Slay the Spire",
+            "record": false,
+            "overlay": false,
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            }
+        },
+        "1203620": {
+            "name": "Enshrouded",
+            "overlay": false,
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            }
+        },
+        "2386720": {
+            "name": "Straftat",
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            }
+        },
+        "782330": {
+            "name": "DOOM Eternal"
+        },
+        "2879840": {
+            "name": "Escape Simulator 2",
+            "overlay": false,
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            }
+        }
+    }
+}
