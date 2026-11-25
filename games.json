@@ -24,8 +24,26 @@
                 "ingame_height": 1440
             }
         },
+        "2868840": {
+            "name": "Slay the Spire 2",
+            "record": true,
+            "overlay": false,
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            }
+        },
         "1203620": {
             "name": "Enshrouded",
+            "overlay": false,
+            "gamescope": {
+                "ingame_width": 2560,
+                "ingame_height": 1440
+            }
+        },
+        "3124540": {
+            "name": "Far Far West",
+            "record": false,
             "overlay": false,
             "gamescope": {
                 "ingame_width": 2560,
