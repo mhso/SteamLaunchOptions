@@ -23,8 +23,8 @@ GAMESCOPE_DEFAULT_VALUES = {
     "--hdr-enabled": True,
 }
 
-START_REPLAY_COMMAND = "bash /mnt/d/Misc_Scripts/screen_recorder/start_replay.sh"
-STOP_REPLAY_COMMAND = "bash /mnt/d/Misc_Scripts/screen_recorder/stop_replay.sh"
+START_REPLAY_COMMAND = "bash /mnt/h/Misc_Scripts/screen_recorder/start_replay.sh"
+STOP_REPLAY_COMMAND = "bash /mnt/h/Misc_Scripts/screen_recorder/stop_replay.sh"
 NO_OVERLAY_COMMAND = 'LD_PRELOAD=""'
 
 def parse_gamescope_options(options):

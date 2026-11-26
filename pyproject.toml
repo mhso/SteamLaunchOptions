@@ -1,15 +1,10 @@
 [project]
-name = "steam_launch_options"
+name = "steam-launch-options"
 version = "0.1.0"
-description = "Default template for PDM package"
-authors = [
-    {name = "mhso", email = "mhooge@hotmail.com"},
-]
-dependencies = ["steam-vdf>=0.1.10"]
-requires-python = ">=3.10"
+description = "Add your description here"
 readme = "README.md"
-license = {text = "MIT"}
-
-
-[tool.pdm]
-distribution = false
+authors = [
+    { name = "mhso", email = "m_hooge@hotmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = ["steam-vdf>=0.1.10"]
